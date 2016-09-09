@@ -1,0 +1,27 @@
+[
+	{ "keys": ["alt+shift+f"], "command": "reindent" },
+	{ "keys": ["ctrl+alt+m"], "command": "toggle_menu" },
+	{ "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+	{
+		"keys": ["alt+shift+d"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "console.log(${1:}$SELECTION);${0}"
+		},
+		"context": [{
+			"key": "selector", "operator": "equal", "operand": "source.js"
+		}]
+	},
+	{
+		"keys": ["alt+shift+d"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "dump(${1:}$SELECTION, 1, 1);${0}"
+		},
+		"context": [{
+			"key": "selector", "operator": "equal", "operand": "source.php"
+		}]
+	},
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+]

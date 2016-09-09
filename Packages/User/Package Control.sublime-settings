@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Color Highlighter",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - SoDaReloaded",
+		"Twig"
+	]
+}
