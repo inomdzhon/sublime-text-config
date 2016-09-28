@@ -7,17 +7,21 @@
 	[
 		"All Autocomplete",
 		"AutoFileName",
+		"Babel",
 		"Color Highlighter",
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"Jade",
+		"LiveReload",
 		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements",
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"Syntax Highlighting for Sass",
 		"Theme - SoDaReloaded",
 		"Twig"
 	]
