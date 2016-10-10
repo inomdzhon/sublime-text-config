@@ -23,5 +23,15 @@
 			"key": "selector", "operator": "equal", "operand": "source.php"
 		}]
 	},
+	{
+		"keys": ["alt+shift+d"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "<pre>\n\t{{ dump(${1:}$SELECTION) }}\n</pre>${0}"
+		},
+		"context": [{
+			"key": "selector", "operator": "equal", "operand": "text.html.twig"
+		}]
+	},
 	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
 ]
