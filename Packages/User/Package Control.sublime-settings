@@ -9,6 +9,7 @@
 		"AutoFileName",
 		"Babel",
 		"Color Highlighter",
+		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
@@ -21,6 +22,7 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
 		"Syntax Highlighting for Sass",
 		"Twig"
 	]
