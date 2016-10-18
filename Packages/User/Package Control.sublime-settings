@@ -25,6 +25,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-contrib-stylint",
 		"Syntax Highlighting for Sass",
 		"Twig"
 	]

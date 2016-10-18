@@ -18,6 +18,16 @@
                     "*/public_html/assets/*",
                     "*/node_modules/*"
                 ]
+            },
+            "stylelint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "stylint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
