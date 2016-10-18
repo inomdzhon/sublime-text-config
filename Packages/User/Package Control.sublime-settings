@@ -19,6 +19,7 @@
 		"LiveReload",
 		"Material Theme",
 		"Package Control",
+		"PHP-Twig",
 		"RegReplace",
 		"SideBarEnhancements",
 		"Stylus",
@@ -26,7 +27,6 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-contrib-stylint",
-		"Syntax Highlighting for Sass",
-		"Twig"
+		"Syntax Highlighting for Sass"
 	]
 }
